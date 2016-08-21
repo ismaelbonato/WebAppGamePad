@@ -93,7 +93,7 @@ ApplicationWindow {
                 gamepad: gamepad1
                 active: true
                 buttonYKey: Qt.Key_Y
-                buttonGuideKey:
+
 
         }
 
